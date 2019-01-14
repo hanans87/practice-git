@@ -1,1 +1,5 @@
 The second lesson
+here is the change
+make the color blue
+make the background black
+modify test.txt file
